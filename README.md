@@ -7,7 +7,7 @@ I'm a Computer Science student passionate about building web applications and AI
 - 🌱 Currently learning Django, AI and Cloud
 - 🚀 Building VidyaVault
 - 💬 Ask me about Python, Django and JavaScript
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: amalarangassery@gmail.com
 
 ---
 
